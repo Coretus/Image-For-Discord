@@ -1,0 +1,36 @@
+{
+  "name": "images-for-discord",
+  "version": "1.4.7",
+  "description": "discord-image-generation is a powerfull module that allow you to generate awesome images.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "Coretus <coretusp@gmail.com> (https://github.com/Coretus",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Coretus/Image-For-Discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Coretus/Image-For-Discord/issues"
+  },
+  "homepage": "https://github.com/Mr-KayJayDee/discord-image-generation#readme",
+  "keywords": [
+    "discord",
+    "images",
+    "generation",
+    "gif",
+    "manipulation",
+    "canvas",
+    "jimp",
+    "photo",
+    "picture",
+    "drawing"
+  ],
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "gifencoder": "^2.0.1",
+    "jimp": "^0.16.1"
+  }
+}
