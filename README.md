@@ -1,6 +1,6 @@
 <a href="https://nodei.co/npm/images-for-discord"><img src="https://nodei.co/npm/images-for-discord.png?downloads=true&downloadRank=true&stars=true"></a>
 
-# discord-image-generation
+# images-for-discord
 
 A powerfull module that allow you to generate awesome images.
 
